@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Baseball Live Tracker",
+  "version": "0.1.0",
+  "description": "KBO 경기 데이터를 기반으로 Kafka와 WebSocket을 통해 실시간 경기 이벤트를 전달하는 Chrome 확장 프로그램"
+}

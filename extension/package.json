@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"@types/chrome": "^0.1.43",
+		"typescript": "^6.0.3"
+	},
+	"scripts": {
+		"build": "tsc",
+		"typecheck": "tsc --noEmit"
+	},
+	"packageManager": "pnpm@10.34.3"
+}
